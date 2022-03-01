@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the Lord North touching Thirlow School. For Sir Henry North.</title>
+            <author>North, Dudley North, Baron, 1602-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04513</idno>
+            <idno type="STC">Wing N1284A</idno>
+            <idno type="STC">ESTC R181039</idno>
+            <idno type="EEBO-CITATION">51617568</idno>
+            <idno type="OCLC">ocm 51617568</idno>
+            <idno type="VID">175301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175301)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2727:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the Lord North touching Thirlow School. For Sir Henry North.</title>
+                  <author>North, Dudley North, Baron, 1602-1677.</author>
+                  <author>North, Henry, Sir.</author>
+               </titleStmt>
+               <extent>8, 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1666?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Teachers --  Complaints against --  England --  Little Thurlow --  Early works to 1800.</term>
+               <term>Schools --  England --  Little Thurlow --  Early works to 1800.</term>
+               <term>Little Thurlow (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175301:1" rendition="simple:additions"/>
+            <head>A Letter of the Lord <hi>North,</hi> touching <hi>Thirlow</hi> School.</head>
+            <head type="sub">For Sir <hi>Henry North.</hi>
+            </head>
+            <opener>
+               <salute>My Noble Friend and Kinſman;</salute>
+            </opener>
+            <p>KNowing your worthy inclinations judge<g ref="char:EOLhyphen"/>ment, love to Juſtice and Truth, with your induſtry and aſſidual exerciſe there<g ref="char:EOLhyphen"/>of in your courſe and Countrey.</p>
+            <p>Whereas by vertue of a Commiſſion for Charitable Uſes, (ſo pretended by the procurers) ma<g ref="char:EOLhyphen"/>ny <hi>Suffolk</hi>-Gentlemen of worth and quality have been named and employed, but mainly intended for the out<g ref="char:EOLhyphen"/>ing of a poor Village-Schoolmaſter maligned upon pri<g ref="char:EOLhyphen"/>vate ſpleen and diſlike: the Countrey being full of diſ<g ref="char:EOLhyphen"/>courſe and conteſt about the proceeding therein; I have judged fit to i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part to you (converſant with the beſt) what I have met with by my diligent enquiry of the ſteps and agitations therein.</p>
+            <p>I was at firſt as much a ſtranger, as unintereſted in the matter and parties; but hearing by common Fame ſomewhat of the ground and obliquity of intentions
+<pb n="2" facs="tcp:175301:2"/>againſt the Defendant, I became moved to a Chriſtian commiſeration, having received many Teſtimonies conſiderable on his behalf.</p>
+            <p>The Commiſſion thus taken out, Complaints were upon the meaneſt ſort of Neighbours, with their fol<g ref="char:EOLhyphen"/>lowing Subſcriptions, laboured for; and procured for a ground-work, and conſequently a Jury provided in a place remote to paſs upon the Evidence exhibited, which ſurprizingly produced a caſting Verdict: both Jury and Commiſſioners ignorant of the concealed plot and practice, could not well but be ſwayed thereby: which I finding as yet but an imperfect Embrion to<g ref="char:EOLhyphen"/>ward a Decree (by ſome my writing) interpoſed, offer<g ref="char:EOLhyphen"/>ed ſome preventing informations and conſiderations; whereupon to avoid ſubſequent trouble, charge and diſ<g ref="char:EOLhyphen"/>graces, but nothing prevailing, a Decree paſt as well againſt others, as the Schoolmaſter, much unexpect<g ref="char:EOLhyphen"/>ed to be drawn in. This undermining Stratagem was thus broached and carried on.</p>
+            <p>Mr. <hi>Thomas Bucke</hi> on our Lords day after Sermon called together the Inhabitants of Little <hi>Thirlow,</hi> ten<g ref="char:EOLhyphen"/>dering them a Writing to ſubſcribe againſt Mr. <hi>Holmes,</hi> which ſome refuſing, loſt his favour, and their dinner.</p>
+            <p>Other prolings there were about the Countrey for hands upon ſpecious pretexts, meeting alſo ſome refu<g ref="char:EOLhyphen"/>ſals.</p>
+            <p>In the appointed meeting of the Commiſſioners di<g ref="char:EOLhyphen"/>vers ſuſpected of non-concurrence had no warning, who after knowledge complained, and met with the reſt at a more indifferent place; but finding Reſolution much taken, and Concluſions framed upon the prece<g ref="char:EOLhyphen"/>ding Verdict, deſiſted to appear <hi>at the next meeting,</hi> though offended at the premiſſes.</p>
+            <pb n="3" facs="tcp:175301:2"/>
+            <p>After Verdict, ſome Counſel was heard to plead, al<g ref="char:EOLhyphen"/>ledging how improper the buſineſs was to the Com<g ref="char:EOLhyphen"/>miſſion, as more belonging to the Eccleſiaſtical trial, after the Dioceſans Licence, with much more: alſo Sir <hi>Thomas Soame</hi> a Truſtee not having power to tranſ<g ref="char:EOLhyphen"/>mit to Mr. <hi>Buck</hi> who had nothing to do in the Caſe, much leſs to examine ſufficiency which he aſſumed, and upon the Defendants refuſal to ſubmit, offence was taken, though had he done otherwiſe, he had ſhew<g ref="char:EOLhyphen"/>ed himſelf poorly ſimple; after what his Admiſſion, Exerciſe, and divers years Teaching had priviledged him, rather to examine his Boyes, then to be ſo exa<g ref="char:EOLhyphen"/>mined. Whom one of the Electors, Mr. <hi>Owen,</hi> had harboured long in his houſe, and upon his knowledge of his Capacity choſe him Schoolmaſter, however now upon particular Quarrel hath laboured againſt him, and for occaſion of exception withdrew his Children from his Teaching.</p>
+            <p>He, Mr. <hi>Buck,</hi> and Mr. <hi>Soame</hi> of Little <hi>Bradley</hi> have been the prime Movers in this rare project, which Mr. <hi>Soame</hi> hath ſince acknowledged in himſelf, and now reconciled upon a difference he had with Mr. <hi>Holmes,</hi> and finding the diſgraces urged on againſt Sir <hi>Thomas</hi> his Kinſman and others, extraordinarily diſſents and diſapproves. Never was ſo poor a matter managed with ſo much Artifice and Induſtry.</p>
+            <p>Mr. <hi>Holmes</hi> was conceived Friendleſs, and, by undue withholding his Stipend, Pennyleſs; eaſie to be outed, diſgraced, and undone at the firſt Aſſault. But God hath raiſed friends unto him, and the diſgrace may fall ſomewhere elſe.</p>
+            <pb n="4" facs="tcp:175301:3"/>
+            <p>The Clamor ceaſeth in great part, and both Great <hi>Thirlow</hi> and many of Little <hi>Thirlow</hi> (where the School is) diſavow, as approving of Mr. <hi>Holmes,</hi> who finding the ſtrong bent againſt him, offered upon reaſonable Terms, with payment of Arrears due for ſerving in the School, to quit and quiet all. In ſort that the Commiſ<g ref="char:EOLhyphen"/>ſioners took much ſatisfaction, and employed to Mr. <hi>Buck</hi> ſome of themſelves to draw him to acceptance, but he refuſed, having been at great Charge to pay himſelf with the money in his hands.</p>
+            <p>I to my coſt made way to his ends, and end of trou<g ref="char:EOLhyphen"/>ble, nothing prevailing, all muſt down before him for a new model, inexorable, without remorſe either to himſelf or others.</p>
+            <p>Mr. <hi>Holmes</hi> he terms a Nocent, and me by conſe<g ref="char:EOLhyphen"/>quence for my Charity not Innocent<note n="*" place="margin">I had in pity and fa<g ref="char:EOLhyphen"/>vour made Mr. <hi>Holmes</hi> my Chap<g ref="char:EOLhyphen"/>lain.</note> I think by his fair profeſſions he would willingly have ſtopped my mouth, but cannot ſtop his own: if I have erred it is with good company, but till Mr. <hi>Holmes</hi> be farther con<g ref="char:EOLhyphen"/>vinced to deſerve that Malefactor Term, I will not be aſhamed of my good intents.</p>
+            <p>I intended to inſert the Tenor of Sir <hi>Stephen</hi>'s Will concerning his School, with the Decree exceeding the prayer of the Petition for Ejectment; alſo Doctor <hi>Dil<g ref="char:EOLhyphen"/>lingham</hi>'s Letters in vindication of himſelf againſt aſ<g ref="char:EOLhyphen"/>perſions, and aſſerting Mr. <hi>Holmes</hi> his good Ability, with Mr. <hi>Buck</hi> his ſollicitation to place him School<g ref="char:EOLhyphen"/>maſter, convincing him of an Eminent activity which now he denies, making himſelf paſſive; moreover Do<g ref="char:EOLhyphen"/>ctor <hi>King</hi>'s, and others certifying in writing for Mr. <hi>Holmes</hi> his well-deſerving, with ſome Letters of mine <hi>own</hi> at large tending to pacification in good offers com<g ref="char:EOLhyphen"/>plying
+<pb n="5" facs="tcp:175301:3" rendition="simple:additions"/>with Mr. <hi>Buck</hi>'s firſt pretexts, but all fruitleſs, and would prove too tedious; wherefore I muſt leave them to your diſcreet Comprehenſion from this half Light, reſerving to your farther ſatisfaction, upon de<g ref="char:EOLhyphen"/>mand, a Volume of papers conducing to clear the truth of all that is affirmed.</p>
+            <div type="part">
+               <head>A kind of continued Characters of divers worthy per<g ref="char:EOLhyphen"/>ſons ſleighted, Aſſertors for Mr. <hi>Holmes.</hi>
+               </head>
+               <p>Mr. Doctor <hi>Dillingham</hi> Maſter of <hi>Clare-Hall,</hi> where Mr. <hi>Holmes</hi> had been Graduate, ſeveral times Vice-Chancellor.</p>
+               <p>Mr. Doctor <hi>King</hi> Maſter of <hi>Trinity-Hall,</hi> well reputed, learned, and a chief Neighbour in Great <hi>Thirlow.</hi>
+               </p>
+               <p>Mr. <hi>Billingſley</hi> Miniſter of Great <hi>Bradley,</hi> near Neighbour on the other ſide, honeſt, learned, and preceding Schoolmaſter in <hi>Thirlow</hi>-School.</p>
+               <p>Mr. <hi>Chambers</hi> Miniſter of <hi>Weſt-P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utting,</hi> inhabitant in Great <hi>Bradly.</hi>
+               </p>
+               <p>Mr. <hi>Morden</hi> of the ſaid Town, an underſtanding and well-eſteemed Gentleman, with other his Conſcribers to a favourable Certificate in the Riſe of the Buſi<g ref="char:EOLhyphen"/>neſs.</p>
+            </div>
+            <div type="part">
+               <head>Standing Electors according to Sir <hi>Stephen Soame</hi> his Will, laid by to a new Modell.</head>
+               <p>Mr. <hi>Howſman</hi> Miniſter of Great <hi>Thirlow,</hi> a well famed and learned able Judge for ſuch a concernment, ejected
+<pb n="6" facs="tcp:175301:4"/>for being eſſential to all Elections, though won by me to aſſent to a new one, without breach of the Will, ſuch as the proſecutors would place.</p>
+               <p>Mr. <hi>Owen</hi> of <hi>Thirlow, parum</hi> adverſe to Mr. <hi>Holmes,</hi> but as is conceived expecting advantage.</p>
+               <p>Sir <hi>Thomas Soame</hi> ſurviving Executor to the Care of the School, in modeſty finding a fairly recommended and orderly placed man by the two Electing-Neigh<g ref="char:EOLhyphen"/>bour-Miniſters in the office of Schoolmaſter, more competent to judge then himſelf living far off; but knowingly by a ſilent approbation aſſenting, after ha<g ref="char:EOLhyphen"/>ving been much abuſed and miſled by his ſuffering him<g ref="char:EOLhyphen"/>ſelf to become inſtrumental to the plot; though pro<g ref="char:EOLhyphen"/>feſſing now to me to have nothing that he would alledge in diſparagement of Mr. <hi>Holmes,</hi> (who had been much and wrongfully traduced in pretended diſreſpects to<g ref="char:EOLhyphen"/>wards him) is now diſgracefully turned out from his Father's inſtitution, in recompence of having ſerved the Contrivers as an uſeful property.</p>
+            </div>
+            <div type="part">
+               <head>Some preceding active Characters are omitted.</head>
+               <p>As alſo a foul ſcurrillous Libel reflecting upon divers of the above-named, with one <hi>Reyner</hi> formerly in deep difference with Mr. <hi>Buck,</hi> which hangs in charge againſt ſome of the moſt Eminent.</p>
+               <p>Mr. <hi>Holmes</hi> was mainly accuſed through the whole Train of illiterate inſufficiency to the learned Coun<g ref="char:EOLhyphen"/>trey Jury: but the more wiſe Commiſſioners found ground enough to compoſe the Decree without it.</p>
+               <pb n="7" facs="tcp:175301:4"/>
+               <p>After all this, Mr. <hi>Buck</hi> pretends great kindneſs ex<g ref="char:EOLhyphen"/>preſſed to Mr. <hi>Holmes,</hi> and reſpect to me; excelling in his Language, unanſwerable in his proceedings.</p>
+               <p>I have troubled you and my ſelf too much in ſo poor and unworthy abuſineſs, but I affect your right infor<g ref="char:EOLhyphen"/>mation.</p>
+               <p>Thus much for a Narrative manifeſt, and my Apolo<g ref="char:EOLhyphen"/>gy, pardon my haſte and confuſion in this dark intri<g ref="char:EOLhyphen"/>cate ſcene, and know me ever,</p>
+               <closer>
+                  <signed>Your moſt affectionate Kinſman and Servant, <hi>Dudley North</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>To avoid trouble and miſtakings of writing, I am con<g ref="char:EOLhyphen"/>tented to print ſome few Copies for choice friends.</p>
+                  <p>An Appeal, as a laſt Anchor, is neceſſitated and goes on.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>March</hi> 26. 1666.</date>
+                     </dateline>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:175301:5"/>
+            <pb n="1" facs="tcp:175301:5"/>
+            <p>TO paſs by all Mr. <hi>Bucks</hi> Arts for the outing Mr. <hi>Holmes</hi> from being Schoolmaſter at <hi>Thurlow,</hi> where he divers years taught by Mr. <hi>Bucks</hi> active concur<g ref="char:EOLhyphen"/>rence in placing him, and wherein he had ſo wrought by ſtirring up the meaneſt Inhabitants (all otherwiſe quiet) and thereby Sir <hi>Tho: Soame</hi> alſo againſt him, from whom he derived to himſelf a delegated, tranſmitted power of managing the Ejectment, <hi>&amp;c.</hi> Having otherwiſe no colour of his own right to act therein. Which his ill-grounded Cunning, made moſt credibly known unto me, moved me in Chriſtian Charity and Compaſſion to appear as far as I well might in favor to prevent the effects of that ruinous Plot, laid againſt <hi>Holmes,</hi> and trenching to the diſgrace of many well famed and re<g ref="char:EOLhyphen"/>ſpectable perſons, who had appeared on his behalf, which I have induſtriouſly done, by words, Letters, and addreſſes from the entrance into the buſineſs in all con<g ref="char:EOLhyphen"/>ſtancy even until this preſent day; patiently hoping (but by unreaſonable obſtinacy failing) of my peaceable de<g ref="char:EOLhyphen"/>ſires, which the following Letters ſucceſſively (though not ſuccesfully) continued, will demonſtrate, and for my own ſatisfaction, I have thought good to gather in their Series and order together, in relation to my Letter to Sir <hi>Henry North</hi> for his Information.</p>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen.</salute>
+               </opener>
+               <p>Whom it may concern I was deſired to write formerly in the behalf of Mr. <hi>Holmes,</hi> yet Schoolmaſter of <hi>Thurlow,</hi>
+                  <pb n="2" facs="tcp:175301:6"/>but refuſed it, as averſe from medling in others Intereſt, yet from thus much I would not contain my ſelf, That upon the conſtant teſtimonial of many of my honeſt, well-famed and Judicious Neighbours, who well know him and are able to judge I underſtand not any thing of enormouſly ſcandalous or incompetent for the place, which he hath divers years exerciſed, in which ſenſe, no<g ref="char:EOLhyphen"/>thing doubting of the Juſtice and juſt inclinations of the worthy Commiſſioners joyned in the examination of per<g ref="char:EOLhyphen"/>verſions from Charitable uſes, (wherein how far ſchools are intended I conceive not) except in withholding what hath been given for their maintenance: I do zealouſly certify in Chriſtian Neighbourhood, that for want of ſome formalities or ſmall exceptions from which no man is exempt, and without fair admonition, I cannot but hope that the main Defendant, and they who have both placed him and continued him ſo long time, ſhall not ſuffer diſ<g ref="char:EOLhyphen"/>grace, in which aſſurance I ſubſcribe as to all cauſes that I conceive fair and good</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Nov.</hi> 6. 1665.</date>
+                  </dateline>
+                  <signed>Du. North.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Mr. <hi>Buck.</hi>
+                  </salute>
+               </opener>
+               <p>I Acknowledge the favor of your laſt viſit, which being neer dark in the evening, my ſelf in my Chamber en<g ref="char:EOLhyphen"/>gaged to ſome Phyſick, yet I delayed not but friendly and freely entertained you in patient long hearing and an<g ref="char:EOLhyphen"/>ſwering you, in the way which I had formerly appeared
+<pb n="3" facs="tcp:175301:6"/>intending to peace and a fair undiſgraceful way in the proſecution of the buſineſs concerning Mr. <hi>Holmes,</hi> where<g ref="char:EOLhyphen"/>in many conſiderable men were involved by what they had declared in his behalf: But all my open hearted in<g ref="char:EOLhyphen"/>clinations as to a Brother were ſo ineffectual, that the ſubſequent proſecutions were rather more than leſs fu<g ref="char:EOLhyphen"/>rious, carryed on not only againſt him, but others who had either brought or ſuffered him to teach in <hi>Thurlow</hi>-School, I imagine you would never have troubled your<g ref="char:EOLhyphen"/>ſelf unconcerned therein with much coſt and prejudice to your health, had not ſome others ſpleen urged and wrought over much upon you, and bred ſuch an over<g ref="char:EOLhyphen"/>flowing of your gall, as (if yet not prevented) may ſtayn your Complexion and Reputation, and if (which was much) the outing of the School-maſter might have ſa<g ref="char:EOLhyphen"/>tisfied, it was offered, which many of your friends would have had you accept, but you were ſo far from it, that all muſt down who conceived all done according to the Founders will, ſtrange that after four years teaching the Teachers capacity ſhould be queſtioned, other ob<g ref="char:EOLhyphen"/>jections being ſmall and no admonition given: your ſelf party to the Introduction, and till lately taking no ex<g ref="char:EOLhyphen"/>ceptions <hi>tantaene animis Caeleſtibus irae?</hi> my ſtrong infor<g ref="char:EOLhyphen"/>mation of a ſhameful ruine, and utter undoing plotted againſt him, not only detaining his due ſtipend, but a fine urged upon him as an Intruder, moved me in Chri<g ref="char:EOLhyphen"/>ſtianity (though a meer ſtranger) to compaſſion, helping to caſe his fall upon my own Shoulders, making him my Chaplain, and helping him in ſome ſubſiſtence, whereby I am now become concerned in my choice, and his diſ<g ref="char:EOLhyphen"/>grace, and howſoever you may in the preſent triumph, yet in his appeal and the world poſſeſt with the Artifice
+<pb n="4" facs="tcp:175301:7"/>and carriage of the buſineſs, you will not find your ſelf at ſo fair an end as poſſibly in your reduction of the De<g ref="char:EOLhyphen"/>fendants poor neceſſitous Condition you may have con<g ref="char:EOLhyphen"/>ceived. Men of worth are intereſſed, the Eſquier Na<g ref="char:EOLhyphen"/>tural Viſitor not conſulted, may reſent and expect to be heard, and all this as yet you may notwithſtanding re<g ref="char:EOLhyphen"/>collect, and ſuſpend execution, prevent farther trouble and diſgrace with your own quiet inward and outward, which your great Age and Infirmity much require, and ſtand fairer in wonted eſtimation than threatens. I have heard you intend me the favor of another viſit for my clear Information: which if you do, and come with a mind more diſpoſed to peace than rigor, hard hearted<g ref="char:EOLhyphen"/>neſs and perſecution, it will joy my open abounding heart with recompence to this your and my trouble, and ſend us in quiet and good Conſcience towards our Graves, which is the Prayer of</p>
+               <closer>
+                  <dateline>Written in haſte <date>this <hi>26.</hi> of Dec. <hi>1665.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your affectionate friend and well wiſher to ſerve you <hi>Du. North.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>
+                     <hi>Good</hi> Mr. <hi>Buck.</hi>
+                  </salute>
+               </opener>
+               <p>ONce more and no more I preſume to trouble you in my well wiſhes to you peace and a fair end of the ill-ſounding engagement, thanking you for your yeſterdayes obliging favor in good expreſſions to me,
+<pb n="5" facs="tcp:175301:7"/>wherein your good will to me abounds, I would your paſſion did not more abound, I yet appeal to your farther and cooler conſideration, you have had already too much trouble and coſt, inflame and increaſe it not, whileſt it may be fairly avoided, you ſeek the performance of the will of the Founder, and the good effect of it, in the free and ſufficient teaching of a School for the good inſtitu<g ref="char:EOLhyphen"/>tion of Neighbours Children, the preſent introduced Maſter you except againſt, his willingneſs and my com<g ref="char:EOLhyphen"/>plyance to your deſign give you ſatisfaction therein, and an expedient of placing another as you would wiſh, therein is the will of the dead and the charitable intention accompliſhed. But in the progreſs you urge an Inſuper invading, breaking the Tenor and trenching upon the Will, unproperly and unneceſſarily, by diſgracing the ſurviving Executor, a tacit modeſt concurrent to the purſuance of the Will, in the placing Mr. <hi>Holms</hi> as Maſter by the ſtanding Electors of the two <hi>Thurlowes,</hi> whoſe ſufficiency might well be preſumed on, as Schollars, Neighbours, and Miniſters ejected, and diſgracing them, without any viſible tranſgreſſion, think better on it and ſuppoſe not any of the Commiſſioners or any good intel<g ref="char:EOLhyphen"/>ligent body will prove offended at ſo fair and peaceable an end, and that farther charge, altercation, and trouble, be not wedded to an invincible ſenſe of your own, but gratifie all parties concerned, for me if my endeavours to peace miſcarry, yet with Gods good acceptance I re<g ref="char:EOLhyphen"/>gret them not but reſt in my pacifick meaning,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 3. 1665.</date>
+                  </dateline>
+                  <signed>Sir, <hi>Your moſt affectionate Friend,</hi> Du. North.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:175301:8"/>
+               <opener>
+                  <salute>Mr. <hi>Buck.</hi>
+                  </salute>
+               </opener>
+               <p>YOu have given me occaſion to write to you beyond my meaning, finding my ſelf to have loſt much labor and good will by not prevailing the leaſt tittle with you in any thing that I have ſaid or written, but now you having told Dr. <hi>Bolderough</hi> that ſince my ſeeing him you had given me ſatisfaction: It is a miſinformation, for I am not in the leaſt point ſatisfyed with your proceedings, and very little in your ſayings: You have named to him my Son as one of your Commiſſioners who never ſate, and divers had they had timely notice and ſitting would have been far from being carryed away by your blinding ſurprizing artifices; I grieve to ſee ſo many worthy Gen<g ref="char:EOLhyphen"/>tlemen miſled by importuned ſubſcriptions, and a preſent prepared Jury who could not but judge according to what appeared unto them; but all is yet <hi>pendente lite:</hi> the Appeal to come, you have alſo lately failed in your pro<g ref="char:EOLhyphen"/>miſe made in my houſe though not in my preſence that you would preſently pay Mr. <hi>Holmes</hi> forty and five pounds of his arrears in your hands, which when he came to re<g ref="char:EOLhyphen"/>ceive you refuſed to do upon pretence, that young Mr. <hi>Soames</hi> was landed and now (though never before) to be conſulted, you have been at ſtrange coſt and trouble more than incumbent upon you, which you have thruſt your ſelf into, nor indeed if you would have taken the ſhorteſt and directeſt way, by an eccleſiaſtical tryal of him, who was licenſed to keep a School by the Lord Biſhop, and had many ſtrong and conſiderable teſtimonies of his ſufficiency thereunto, all ſlighted and paſſed by, though moſt com<g ref="char:EOLhyphen"/>petent to have judged betwixt a Teacher and his Schol<g ref="char:EOLhyphen"/>lars;
+<pb n="7" facs="tcp:175301:8"/>His taking money hath been objected, which is denyed except of ſuch Towns as were not ſpecified by the Will to have priviledge; now had he notice of the terms of the Will fully till very lately, which was alſo conceal<g ref="char:EOLhyphen"/>ed from Mr. <hi>Buck</hi> himſelf. And if any thing hath been taken through ignorance he hath offered to repay it, Mr. <hi>Holmes</hi> was put in upon purſuance of the Will, ex<g ref="char:EOLhyphen"/>erciſed the duty required many years without exception. And whereas great negligence is taxed upon him, he is ready to juſtifie the contrary having never conſiderably abſented himſelf, but once in a Chriſtmas time, and that little more than a Moneth, three weeks ceſſation being ordinary to all Schools, and even then he had taken care to have his place ſupplyed, againſt his diſreſpect (alledg<g ref="char:EOLhyphen"/>ed) to Sir <hi>Tho. Soame,</hi> he can fully juſtify himſelf, as alſo in refuſing before the Commiſſioners to be examined by Mr. <hi>Buck</hi> or his Aſſigns, wherein he had otherwiſe done moſt baſely and ſillily: But you have not loſt your coſt and ends, for you may have him out and others in, at your choice, the Will ſtand inviolate, the Countrey taught, Animoſities and diſgrace prevented, charge and trouble ſaved, and good men ſatisfyed; Sir <hi>Thomas Soame</hi> upon whom your workings have prevailed to give you colour of power not caſt out in recompence. Theſe are the good effects you may attain by not purſuing your Decree, and my ſelf, whom you would render not innocent by countenancing a Nocent remain your friend,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 29. 1665.</date>
+                  </dateline>
+                  <signed>Du. North.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:175301:9"/>
+               <opener>
+                  <salute>Noble Dr. <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Buckenham.</salute>
+               </opener>
+               <p>I Never admired any thing more than Mr. <hi>Bucks</hi> incon<g ref="char:EOLhyphen"/>ſiſtent intellectuals and obſtinate malice in blind and blinding Arts for the overthrow of a poor Village School<g ref="char:EOLhyphen"/>maſter placed upon his own ſollicitation and paid and allowed by him, for above two years when he ſtirred up and pick't a Quarrel againſt him, the ill favour whereof flew ſo about the Countrey, that I upon credible teſtimo<g ref="char:EOLhyphen"/>nies of <hi>Holms</hi> his good capacity and carriage (though a ſtranger to the man and matter,) took it to heart in Chri<g ref="char:EOLhyphen"/>ſtian compaſſion, induſtriouſly interpoſing what I could to effect a right underſtanding, and prevent a charge trou<g ref="char:EOLhyphen"/>ble and conſequent diſgrace to ſuch as had appeared for him, or were otherwiſe intereſſed with importunate perſwaſions, to Mr. <hi>Buck</hi> of his being il-grounded, yet complying with him ſo far as to produce his ends both in removing <hi>Holmes</hi> and bringing another, all in vain; After much conteſt with him, one repayring to me asked me, if I would have any thing, I anſwered only this, <hi>cui bono</hi> all this coſt and trouble? at laſt I became indeed in<g ref="char:EOLhyphen"/>tereſſed at leaſt in reputation, as my Letter to Sir <hi>Henry North</hi> mentions. <hi>Buck</hi> hath ſlighted many fair proffers for a peaceable deſiſtence and retraite, hath put jeering and threatning upon me, if I perſiſted in laying him and my ſelf open, it but the more animates me, it can be but honor to me and ſhame to him, nor am I of a conſiſtence to fear any thing that Man, or dare or can ſay againſt me, the more this puddle is ſtirred the worſe the vapor, they who refuſe peace and quiet. It belongs to them to ſuffer in the contrary, but of others <hi>quid meruere.</hi> To <hi>Buck</hi> be<g ref="char:EOLhyphen"/>longs
+<pb n="9" facs="tcp:175301:9"/>the blame, who may clear the ſtage and leave all in <hi>ſtatu quo:</hi> nor Law nor good then but will rather joy than be offended in a good agreement: <hi>Buck</hi>-bears ſhall not fright</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Catledge June</hi> 26, 1666.</date>
+                  </dateline>
+                  <signed>Your affectionate Friend to ſerve you, <hi>Du. North.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Thus much in my good reſpect to you, who as I hear never ſealed to the Decree, I preſume to ſend you what I aſſure my ſelf you have heard of, if not ſeen my Letter to Sir <hi>Henry North.</hi>
+                  </p>
+                  <p>Mr. <hi>Thomas Buck</hi> hath ſo acted as Subſtitute to Sir <hi>Thomas Soams</hi> in his executory power to his Fathers Will, as cannot but conclude through the whole agitation con<g ref="char:EOLhyphen"/>cerning <hi>Thurlow</hi> School, as well for placing as diſplacing: Sir <hi>Thomas</hi> muſt be implicitly concurring thereunto, elſe Mr. <hi>Buck</hi> muſt have been a ſtrange Intruder without the leaſt Authority in what he hath aſſumed.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>My Good Dr. <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Paman.</salute>
+               </opener>
+               <p>PArdon my preſumption, who affect to be more and more yours by this your farther courteſy, I am a great exalter of Charity (if not exerciſer of it) no doubt of your concurrence: I have in word, writing, and deed, extraordinarily ſhewed it in the buſineſs betwixt <hi>Holms</hi> and <hi>Buck,</hi> manifoldly and importunately laboring peace
+<pb n="10" facs="tcp:175301:10"/>and prevention of charge, trouble, animoſities and diſgraces, but rancor and invincible ſpight hath fruſtrated my endeavours, (wherein failing) <hi>Bucks</hi> crafty and ma<g ref="char:EOLhyphen"/>licious ſteps have been gathered though his whole courſe, and are ready to be proved and Printed, which I have hitherto ſtopped expecting his recipiſcence, but his moſt uncharitable intents cloaked with Charity continuing, and a coſtly courſe of Appeal enforced <hi>Holms,</hi> (whoſe ſtipend <hi>Buck</hi> hath ſince his quarrel withheld) though placed by his deſire and payed by him for divers years reduced to great want, having forbore to ſue or ſeek for his right, until the heirs return, to whom he conſtantly referred himſelf as his proper pay-maſter and Natural overſeer, I can do no leſs than intercede for the Laborers hyre, who rather than not to proſecute his vindicating himſelf againſt undeſerved diſgrace and utter ruine, muſt be enforced to be received in <hi>forma pauperis.</hi> Oblige me in your aſſiſtance &amp; imparting thus much to the Eſquier and procuring his anſwer to me herein, Mr. <hi>Buck</hi> hath complain<g ref="char:EOLhyphen"/>ed to Dr. <hi>Dillingham,</hi> more remiſs and ſubmiſs than for<g ref="char:EOLhyphen"/>merly, and imploring his adviſe, in this his misfortune and exigent, who told him he might deſiſt if he would relent, which he may yet do, nor the Law nor any good man will be offended in a peaceable, agreement and con<g ref="char:EOLhyphen"/>cluſion. Bleſſed are the Peacemakers, no man will be a looſer thereby, diſgraces avoided, the Founders Will inviolated, and nothing but malice defeated, this is eaſy and obvious, and a good peace never too late. The Angels ſang Glory to God, and peace on earth, good will towards men, better than libelling and diſ<g ref="char:EOLhyphen"/>gracing Churchmen. I have written and ſaid much in vain, may this prove more ſucceſsful with my ſer<g ref="char:EOLhyphen"/>vice
+<pb n="11" facs="tcp:175301:10"/>to my kinſman and all good affection, to your ſelf I reſt in haſte.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 21. 1666.</date>
+                  </dateline>
+                  <signed>Your really reſpectful Friend to ſerve you, <hi>Du. North.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>Now <hi>fiat juſtitia &amp; currat lex:</hi> I am reſolved to trou<g ref="char:EOLhyphen"/>ble my ſelf no more, but leave Mr. <hi>Holms</hi> to be School<g ref="char:EOLhyphen"/>maſter at <hi>Thurlow, Rectus in Curia</hi> or a diſgraced un<g ref="char:EOLhyphen"/>done man, withdrawing my ſelf and all thoſe offers that I would have contributed to a fair peaceable end, they go now for nothing, as retracted and fruitleſs.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Ju<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> 2. 1666.</date>
+                  </dateline>
+                  <signed>Du. North.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
